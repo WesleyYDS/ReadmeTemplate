@@ -87,7 +87,7 @@ dotnet test | mvn test
 
 ---
 
-### Documentation
+### 📋 Documentação
 
 Esse projeto segue as seguintes Commit Guidelines:
 
